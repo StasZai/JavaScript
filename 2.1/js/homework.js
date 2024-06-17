@@ -1,0 +1,1 @@
+alert( 'Дз: «Я JavaScript!»' );

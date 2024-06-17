@@ -1,0 +1,1 @@
+alert( 'Привет, script2.js!' );
